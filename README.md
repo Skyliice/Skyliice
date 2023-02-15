@@ -1,16 +1,16 @@
-### Hi there 👋
+![Main Image](https://github.com/Skyliice/Skyliice/blob/main/IntroImage.png)
+# About me
+I'm 21 years old, I've been practicing my coding skills since 2019 and i have some experience with:
+- Console applications
+- WinForms
+- WPF
+- Xamarin.Forms
+- ASP Net Core
 
-<!--
-**Skyliice/Skyliice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ As you can see my main language is C#. My main goal is to become a professional ASP Net Core developer.
+ - 🍃 I'm currently learning **ASP Net Core**, **React**.
+ - 🍀 How to reach me: **Telegram:** https://t.me/Skyliice ; **E-mail:** bogdan.metelitsa@gmail.com
+ 
+ [![codewars](https://www.codewars.com/users/Skyliice/badges/large)](https://www.codewars.com/users/Skyliice)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyliice&show_icons=true&theme=merko)
