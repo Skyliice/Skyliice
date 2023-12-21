@@ -1,8 +1,6 @@
 ![Main Image](https://github.com/Skyliice/Skyliice/blob/main/IntroImage.png)
 # About me
-I'm 21 years old, I've been practicing my coding skills since 2019 and i have some experience with:
-- Console applications
-- WinForms
+I'm 22 years old, I've been practicing my coding skills since 2019 and i have some experience with:
 - WPF
 - Xamarin.Forms
 - ASP Net Core
